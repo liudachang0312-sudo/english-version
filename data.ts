@@ -3,7 +3,7 @@ import { ResumeData } from './types';
 export const INITIAL_DATA: ResumeData = {
   name: {
     zh: "刘大昌",
-    en: "Liu Chang"
+    en: "Liu DaChang (Darcy)"
   },
   title: {
     zh: "工艺开发 / 设备导入 / 综合解决方案专家",
@@ -13,8 +13,8 @@ export const INITIAL_DATA: ResumeData = {
     phone: "151-1008-6435",
     email: "751633032@qq.com",
     location: {
-      zh: "河北廊坊 (北京户口)",
-      en: "Langfang, Hebei (Beijing Hukou)"
+      zh: "河北廊坊",
+      en: "Langfang, Hebei"
     },
     birthDate: "1989.03",
     politicalStatus: {
